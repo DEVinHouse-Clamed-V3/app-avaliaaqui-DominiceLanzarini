@@ -1,0 +1,5 @@
+.color1 { #1074d2 }; azul
+.color2 { #99ccf7 }; azul clarinho
+.color3 { #09447b }; azul escurão
+.color4 { #0a4e8e }; azul escuro
+.color5 { #babac4 }; cinza claro
